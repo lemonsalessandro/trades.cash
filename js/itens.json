@@ -1,0 +1,221 @@
+{
+    "skins": [
+        {
+            "nome": "AK-47 | Linhas Vermelhas",
+            "tipo": "Rifle",
+            "estado": "Testada em Campo",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5lpKKqPrxN7LEm1Rd6dd2j6eQ9N2t2wK3-ENsZ23wcIKRdQE2NwyD_FK_kLq9gJDu7p_KyyRr7nNw-z-DyIFJbNUz/360fx360f",
+            "valor": "134",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4316184747992403289A30825391312D12016426293817002451"
+        },
+        {
+            "nome": "AK-47 | Imperatriz",
+            "tipo": "Rifle",
+            "estado": "Nova de Fábrica",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09m7hJKOhOTLPr7Vn35c18lwmO7Eu9ql2gDg8kBoYWqlddLHIVI8YFnZqFTrk73mjMW-v87ByHRluiB2533D30vgNUkukuM/360fx360f",
+            "valor": "115.66",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4319561180109474504A30562090003D16143300940994064319"
+        },
+        {
+            "nome": "SSG 08 | Fogo Dracônico",
+            "tipo": "Rifle",
+            "estado": "Testada em Campo",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkJKKkPj6NbLDk1RC68phj9bN_Iv9nGu4qgE7Nnf3LISddw5taAzQ8lm6xOq9gZTpuZ6fyXA3syIltHffnxbkhxEYOLZtm7XAHgXm-xFt/360fx360f",
+            "valor": "120",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5520897740529300250A19714125508D16187070015709180544"
+        },
+        {
+            "nome": "P250 | Muertos",
+            "tipo": "Pistola",
+            "estado": "Nova de Fábrica",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09G3moSKm_bLP7LWnn9u5MRjjeyPpY32igHl_0VoMD30JoCRcVU4MFmGrwfvl-bohpC-tJWcm3c3uiJ04mGdwUJxLpw2dQ/360fx360f",
+            "valor": "61.15",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4291414950043572944A30818506243D2740557111115794372"
+        },
+        {
+            "nome": "Glock-18 | Elemental de Água",
+            "tipo": "Pistola",
+            "estado": "Pouco Usada",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79f7mImagvLnML7fglRd4cJ5ntbN9J7yjRrl_kI5amz3cdKRI1NoY1CDqQK7xLrv1se47pnKmHU3syYm4SnemUTkn1gSOYPIEaei/360fx360f",
+            "valor": "73.20",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4315058848081502591A30820583655D4955692759399960038"
+        },
+        {
+            "nome": "USP-S | Órion",
+            "tipo": "Pistola",
+            "estado": "Nova de Fábrica",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jnI7LFkGJD7fp9g-7J4bP5iUazrl1ka2qhLIGSIw5vZF-D8wXqwO_tjcC-uZjJnSY3vCkmsXbYlkO0gB1McKUx0vNO72r1/360fx360f",
+            "valor": "404",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4294792015416481149A30791351554D1039768719237938593"
+        },
+        {
+            "nome": "Desert Eagle | Hipnótico",
+            "tipo": "Pistola",
+            "estado": "Pouco Usada",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTitH_si_k4-0m_7zO6_ummpD78A_0rzApNrw3FayqUs-YjqgIoWccVVvZAzQqVfqwr_u0JDpup3LynFhuT5iuyj9I0M0JQ/360fx360f",
+            "valor": "822.18",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4329693010437089475A3340198654D12423962727215547435"
+        },
+        {
+            "nome": "AWP | Grafite",
+            "tipo": "Rifle",
+            "estado": "Nova de Fábrica",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PDaZDBS4NmJlpKKgfjLP7LWnn9u5MRjjeyPoIqg0VCx-UFrN2v7JNCWIQVsYlGGqwS5lOrm1MW9uJ7Kynow6yVw52GdwULDeIeGVQ/360fx360f",
+            "valor": "7111",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4315058848075788521A30811680724D2786180771080189441"
+        },
+        {
+            "nome": "Glock-18 | Doppler Gama",
+            "tipo": "Pistola",
+            "estado": "Nova de Fábrica",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZROjeXO9ofKhF2zowcDPzixc9OLIAU3ZFnVq1K8lO6518Lv786awSdqunYrsXnYnEGzghwYb-Jp0aOXHULeWfI9u5g-Fg/360fx360f",
+            "valor": "280.50",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5983642603069433653A30825665557D7227158434242928966"
+        },
+        {
+            "nome": "Desert Eagle | Chamas",
+            "tipo": "Pistola",
+            "estado": "Nova de Fábrica",
+            "raridade": "Restrito",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/360fx360f",
+            "valor": "404",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4306051648825816654A30822739174D14757350591802378959"
+        },
+        {
+            "nome": "AK-47 | Vulcan",
+            "tipo": "Rifle",
+            "estado": "Testada em Campo",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV086jloKOhcj5Nr_Yg2Zu5MRjjeyPoN6k0ATi8hJuZDqmLY7Ed1M7YVzY-Qe4xLzu1p68vc_BmiRjviQn7WGdwUJ150pPUQ/360fx360f",
+            "valor": "1488",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4304925114545448176A14905339265D7406420305464183199"
+        },
+        {
+            "nome": "Glock-18 | Rebelde",
+            "tipo": "Pistola",
+            "estado": "Nova de Fábrica",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJg4GYg_L4MrXVqXlU6sB9teXI8oTht1i1uRQ5fWv7II6ce1dsYl2F_wC8yL3p0MLuupmbyyM1uykmtiqInhzmgU0YZuxxxavJ__KWVeE/360fx360f",
+            "valor": "174",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4313932948180944948A30750330835D9799839834723084556"
+        },
+        {
+            "nome": "Baioneta | Degradê",
+            "tipo": "Faca ",
+            "estado": "Nova de Fábrica",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJcAJE7dizq4yCkP_gDLfQhGxUppBwib3Hod6n2ADnqUdkMW30cYKRdwVtMlrV-gK5yLi71JXpu5XBzHd9-n51Ga5qFJk/360fx360f",
+            "valor": "7795",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4326316579524919480A30653420718D7496958940663841728"
+        },
+        {
+            "nome": "AWP | Descarga Elétrica",
+            "tipo": "Rifle",
+            "estado": "Nova de Fábrica",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn9u5MRjjeyPptuj2Qzt_0JsYDymJNDAIQ8-MA7U_1i3w-bphpO1v56bmHBk7yMksWGdwUJq4NI0lg/360fx360f",
+            "valor": "6244",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4311681148362247666A30805937812D6927847706444758665"
+        },
+        {
+            "nome": "M4A4 | Poseidon ",
+            "tipo": "Rifle",
+            "estado": "Testada em Campo",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszYfi5H5di5mr-HnvD8J4Tdl3lW7YsijuuUo9StiQG2_0Q-N2z0JobAdQU2ZQmCrFC9kurqh5W97Z6amnJgpGB8sqTzmbCH/360fx360f",
+            "valor": "8300",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M629759929374128556A7009565449D12448512881583189032"
+        },
+        {
+            "nome": "USP-S | Vítima Confirmada",
+            "tipo": "Pistola",
+            "estado": "Testada em Campo",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j_OrfdqWhe5sN4mOTE8bP4jVC9vh4DPzixc9OLcQU2Z1vQ_FfrwbvnhJ6-uJ_PnXAyuCUmtHfenRW00h5MPOVt1_KYHULeWfL4W83H_Q/360fx360f",
+            "valor": "321",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534590548503A6722399178D11595896898729909187"
+        },
+        {
+            "nome": "P250 | Asiimov",
+            "tipo": "Pistola",
+            "estado": "Veterana de Guerra",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS092lnYmGmOHLP7LWnn9u5MRjjeyPoo_2jgDi_hVrNzr2IdKXJg84YVzW_wW6weq8hJbv7s7BmnZnuHN3sGGdwUIcgRyEsg/360fx360f",
+            "valor": "34.18",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029466670525A7009161310D5226054359902225900"
+        },
+        {
+            "nome": "Karambit | Massacre",
+            "tipo": "Faca",
+            "estado": "Pouco Usada",
+            "raridade": "Secreto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20jfL2IbrummJW4NFOhujT8om70Azg_kQ6MTygdYKXJw9qMlnX_Fa3ye28gpC-vZSdynYxviZztyncmwv330_7Rx0jNA/360fx360f",
+            "valor": "6894",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534592240103A6976697781D7403952997333021811"
+        },
+        {
+            "nome": "Baioneta M9 | Doppler",
+            "tipo": "Faca",
+            "estado": "Pouco Usada",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjwPKvBmm5D19V5i_rEpLP5gVO8vywwMiukcZiUIw83Z1iB_APskO--jZTt6cybyXIxuiIi4i3ZyUOw0hxObbRu0_WYVxzAULJah8el/360fx360f",
+            "valor": "7471",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865623766750A7015401032D12251174205656266560"
+        },
+        {
+            "nome": "Baioneta M9 | Sabedoria",
+            "tipo": "Faca",
+            "estado": "Nova de Fábrica",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Igsj5aoTTl3Ju5Mpjj9bM8Ij8nVmLpxIuNDztdYGXcQ42ZlrW_gDqxOa5hsO8uZ-dznFkuiBwsSrZzEe1hRofP7E9hOveFws2jhIh_Q/360fx360f",
+            "valor": "7753",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198255006163A6954514909D12287630426648990186"
+        },
+        {
+            "nome": "Canivete | Autotrônica",
+            "tipo": "Faca",
+            "estado": "Veterana de Guerra",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJF_-OwmImbqPbhJ7TFhGRf4cZOguzA45XKhFWmrBZyNjqgJIXEIFVrYl2Gqwe9wbi9hMW1uc6cyHM2vnUq5H2Jnxy21R5JZvsv26JUGqeulg/360fx360f",
+            "valor": "1891",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729190427468A7003656550D4921522268252246125"
+        },
+        {
+            "nome": "Glock-18 | Neo-Noir",
+            "tipo": "Pistola",
+            "estado": "Bem Desgastada",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmo-Chcj5Nr_Yg2Zu5MRjjeyPpo-s2Vbh_kVoZzjyJI6UcQZtNVyFrwO2yOu7g5e6vZ_AwXs1uiYlt2GdwUJ-bcD0Iw/360fx360f",
+            "valor": "55.48",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024050996165A20026143521D596309182583188774"
+        },
+        {
+            "nome": "FAMAS | Valência",
+            "tipo": "Rifle",
+            "estado": "Nova de Fábrica",
+            "raridade": "Restrito",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0uL3dzxP7c-Jl4-Fg_jhIYTck29Y_chOhujT8om70Aex_0dtaz2gLYDAJwVqYV7Y_gC4yL_oh8S16c6YnyRnuCMr5naLmQv330-cDYFPtw/360fx360f",
+            "valor": "48.90",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534592373393A6910546511D11532608158487026334"
+        },
+        {
+            "nome": "FAMAS | Comemoração",
+            "tipo": "Rifle",
+            "estado": "Bem Desgastada",
+            "raridade": "Oculto",
+            "imagem": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5cB1g_zMyoD0mlOx5UY_MT_xcIfGdgFrZF3Z-FG8kr_vhcC_6prLzndrvnFzt36JzUHigxlSLrs4R2CbkEM/360fx360f",
+            "valor": "81.47",
+            "inspectInGame": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1908889622842633641A16990176327D11983212780775469266"
+        }
+        
+    ]
+}

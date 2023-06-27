@@ -1,0 +1,68 @@
+#darkModeToggle i, #darkModeToggleNav i{
+    cursor: pointer;
+    font-size: 24px;
+    color: #fff;
+}
+
+#darkModeToggle i:hover{
+    color: var(--secondary-color1);
+}
+
+
+.dark-mode {
+    background-color: var(--text-color);
+    color: var(--black);
+}
+
+.dark-mode header{
+    background-color: var(--background-color2);
+    color: var(--text-color);
+}
+
+.dark-mode *,
+.dark-mode i, 
+.dark-mode h1,
+.dark-mode h2, 
+.dark-mode h3,
+.dark-mode h4, 
+.dark-mode h5, 
+.dark-mode p, 
+.dark-mode span{
+    color: var(--background-color1);
+}
+
+
+.dark-mode .modal-content, .dark-mode #textInfoWrapper{
+    background-color: var(--text-color);
+}
+
+#textInfoWrapper{
+    background-color: var(--background-color1);
+
+}
+
+.dark-mode .navbar{
+    background-color: var(--background-color1);
+}
+
+.white > a{
+    color: #fff;
+}
+
+.dark-mode #deletarItem{
+    color: #000;
+}
+
+
+.carteira span, .carteira i, #logout i{
+    color: #fff;
+}
+
+
+.checkFilter label, .price h3, .price p{
+    color: #fff;
+}
+
+.dropbtn i{
+    color: var(--text-color);
+}

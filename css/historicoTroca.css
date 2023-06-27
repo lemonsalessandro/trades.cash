@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+:root {
+    --background-color1: #242329;
+    --background-color2: #3c3b45;
+    --background-color3: #6d6a7d;
+    --extra-color: #a39eba;
+    --text-color: #fff;
+    --text-color-yellow: #FFDB69;
+    --secondary-color1: #856cf0;
+    --secondary-color2: #9884f0;
+    --secondary-color3: #9684f0;
+    --input-color: #d0caed;
+    --cancel-color: #f29180;
+    --external-link: #ede080;
+    --confirm-color: #5eb590;
+    --black: #000;
+}
+
+body {
+    background-color: var(--background-color1);
+    min-width: 650px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    grid-area: header;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    /* min-width: 610px; */
+}
+
+#logo {
+    width: 15rem;
+}
+
+.header button {
+    border: none;
+    background-color: transparent;
+}
+
+.header i {
+    font-size: 24px;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.header i:hover {
+    color: var(--secondary-color3);
+}
+
+#btnBack {
+    background-color: var(--secondary-color1);
+    text-decoration: none;
+    color: var(--text-color);
+    padding: 5px;
+}
+
+.photo-header img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.right-side {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    padding: 0 50px;
+}
+
+
+.content img {
+    width: 100px;
+    filter: drop-shadow(2px 2px 2px);
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    color: var(--text-color);
+    font-weight: 100;
+    width: 270px;
+}
+
+.info h4 {
+    font-weight: 500;
+}
+
+.item {
+    display: flex;
+    border: 3px solid var(--black);
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item h1{
+    color: var(--text-color);
+    text-align: center;
+}
+
+.item>h1>p{
+    font-size: 12px;
+}
+
+.item h4{
+    width: 400px;
+}
+
+#itemUser, #itemSite{
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--cancel-color); 
+}
+
+#itemSite{
+    color: var(--confirm-color);
+}
+
+#deletarItem {
+    background-color: transparent;
+    border: none;
+}
+
+#deletarItem i {
+    font-size: 30px;
+    color: var(--text-color);
+}
+
+#deletarItem i:hover {
+    color: var(--cancel-color);
+    cursor: pointer;
+}
+
+.addItemWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.addItem {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 3px;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.addItem i {
+    font-size: 24px;
+    color: var(--text-color);
+}
+
+.addItem a {
+    color: var(--text-color);
+}
+
+.addItem:hover {
+    background-color: var(--confirm-color);
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+}
+
+.message h3 {
+    color: var(--text-color);
+}
