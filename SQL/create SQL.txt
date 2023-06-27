@@ -1,0 +1,59 @@
+create table usuario(
+idUsuario int(6) AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(30) NOT NULL, 
+email VARCHAR(50) NOT NULL,
+senha VARCHAR(255) NOT NULL, 
+valorCarteira decimal(10,2) DEFAULT '0' NOT NULL,
+status tinyint(1) NULL DEFAULT '0',
+imagemPerfil VARCHAR(50) DEFAULT 'profile.png' NOT NULL,
+recKey VARCHAR(255) DEFAULT NULL,
+dataCadastro date NOT NULL default CURRENT_DATE
+);
+
+
+create table inventario_usuarios(
+idItem int(6) AUTO_INCREMENT NOT NULL, 
+nomeSkin VARCHAR(30) NOT NULL,
+tipo VARCHAR(30) NOT NULL,
+estado VARCHAR(30) NOT NULL, 
+raridade VARCHAR(30) NOT NULL,
+itemImg VARCHAR(255) DEFAULT 'skin.png' NOT NULL,
+preco decimal(10,2),
+vendido tinyint(1) NULL DEFAULT '0',
+idUsuario int(6),
+inspectInGame varchar(255) NOT NULL,
+
+CONSTRAINT pk_item_usuario PRIMARY KEY (idItem, idUsuario),
+CONSTRAINT fk_item_usuario FOREIGN KEY (idUsuario) REFERENCES usuario (idUsuario) ON DELETE CASCADE;
+);
+
+create table inventario_site(
+idItemSite int(6) AUTO_INCREMENT PRIMARY KEY,
+nomeSkin VARCHAR(30) NOT NULL,
+tipo VARCHAR(30) NOT NULL,
+estado VARCHAR(30) NOT NULL, 
+raridade VARCHAR(30) NOT NULL,
+itemImg VARCHAR(50) DEFAULT 'skin.png' NOT NULL,
+preco decimal(10,2),
+inspectInGame varchar(255) NOT NULL,
+oculto tinyint(1) NULL DEFAULT '0'
+);
+
+CREATE TABLE troca (
+  idTroca INT(6) PRIMARY KEY AUTO_INCREMENT,
+  idUsuario INT(6),
+  data TIMESTAMP DEFAULT CURRENT_DATE,
+  
+  FOREIGN KEY (idUsuario) REFERENCES usuarios (idUsuario)
+);
+
+CREATE TABLE troca_itens (
+  idTrocaItem INT(6) PRIMARY KEY AUTO_INCREMENT,
+  idTroca INT(6),
+  idItem INT(6),
+  idItemSite INT(6),
+  
+  FOREIGN KEY (idTroca) REFERENCES troca (idTroca),
+  FOREIGN KEY (idItem) REFERENCES inventario_usuarios (idItem),
+  FOREIGN KEY (idItemSite) REFERENCES inventario_site (idItemSite)
+);
