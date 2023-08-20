@@ -35,11 +35,12 @@ function enviaEmail($email, $mensagem, $assunto, $link){
         ]
     ];
 
-    $mail->Username = 'alessandrolemons.dev@gmail.com'; ////Usuário para autenticação 
-    $mail->Password = 'mrgpnacpcxtwqjar'; //senha autenticação
+    //INSIRA UM EMAIL VÁLIDO CASO QUEIRA TESTAR O SISTEMA
+    $mail->Username = ''; ////Usuário para autenticação
+    $mail->Password = ''; //senha autenticação
 
     // Remetente da mensagem - sempre usar o mesmo usuário da autenticação  
-    $mail->setFrom('alessandrolemons.dev@gmail.com','Trades.Cash');
+    $mail->setFrom('','Trades.Cash');
 
     // Endereço de destino do email
     $mail->addAddress($email);
